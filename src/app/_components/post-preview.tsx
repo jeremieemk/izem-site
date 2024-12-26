@@ -22,7 +22,7 @@ export function PostPreview({
   slug,
 }: Props) {
   return (
-    <div>
+    <div className="rounded-base border-2 border-border bg-main p-4 text-text shadow-light transition-all last:mb-0 hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none dark:border-darkBorder dark:shadow-dark dark:hover:shadow-none">
       <div className="mb-5">
         <CoverImage slug={slug} title={title} src={coverImage} />
       </div>

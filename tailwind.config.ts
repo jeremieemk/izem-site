@@ -1,4 +1,7 @@
 import type { Config } from "tailwindcss";
+import defaultTheme from "tailwindcss/defaultTheme";
+import typography from "@tailwindcss/typography";
+import tailwindScrollbar from "tailwind-scrollbar";
 
 const config: Config = {
   darkMode: "class",
@@ -9,36 +12,67 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      fontFamily: {
+        sans: ["Inter", ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        "accent-1": "#FAFAFA",
-        "accent-2": "#EAEAEA",
-        "accent-7": "#333",
-        success: "#0070f3",
-        cyan: "#79FFE1",
+        main: "#FFDC58",
+        mainAccent: "#ffc800", // not needed for shadcn components
+        overlay: "rgba(0,0,0,0.8)", // background color overlay for alert dialogs, modals, etc.
+
+        // light mode
+        bg: "#FEF2E8",
+        text: "#000",
+        border: "#000",
+
+        // dark mode
+        darkBg: "#374151",
+        darkText: "#eeefe9",
+        darkBorder: "#000",
+        secondaryBlack: "#212121", // opposite of plain white, not used pitch black because borders and box-shadows are that color
       },
-      spacing: {
-        28: "7rem",
-      },
-      letterSpacing: {
-        tighter: "-.04em",
-      },
-      fontSize: {
-        "5xl": "2.5rem",
-        "6xl": "2.75rem",
-        "7xl": "4.5rem",
-        "8xl": "6.25rem",
+      borderRadius: {
+        base: "10px",
       },
       boxShadow: {
-        sm: "0 5px 10px rgba(0, 0, 0, 0.12)",
-        md: "0 8px 30px rgba(0, 0, 0, 0.12)",
+        light: "0px 4px 0px 0px #000",
+        dark: "0px 4px 0px 0px #000",
       },
+      translate: {
+        boxShadowX: "0px",
+        boxShadowY: "4px",
+        reverseBoxShadowX: "0px",
+        reverseBoxShadowY: "-4px",
+      },
+      fontWeight: {
+        base: "400",
+        heading: "600",
+      },
+      screens: {
+        w700: { max: "700px" },
+        w500: { max: "500px" },
+        w400: { max: "400px" },
+      },
+      typography: (theme: any) => ({
+        lightMode: {
+          css: {
+            "--tw-prose-kbd": theme("colors.text"),
+            "--tw-prose-quote-borders": theme("colors.text"),
+            "--tw-prose-bullets": theme("colors.text"),
+            "--tw-prose-code": theme("colors.text"),
+          },
+        },
+        darkMode: {
+          css: {
+            "--tw-prose-kbd": theme("colors.darkText"),
+            "--tw-prose-quote-borders": theme("colors.darkText"),
+            "--tw-prose-bullets": theme("colors.darkText"),
+            "--tw-prose-code": theme("colors.darkText"),
+          },
+        },
+      }),
     },
   },
-  plugins: [],
+  plugins: [typography, tailwindScrollbar],
 };
 export default config;
