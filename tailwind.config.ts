@@ -16,12 +16,12 @@ const config: Config = {
         sans: ["Inter", ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        main: "#FFDC58",
+        main: "#efd3a2",
         mainAccent: "#ffc800", // not needed for shadcn components
         overlay: "rgba(0,0,0,0.8)", // background color overlay for alert dialogs, modals, etc.
 
         // light mode
-        bg: "#FEF2E8",
+        bg: "#faf4e9",
         text: "#000",
         border: "#000",
 
