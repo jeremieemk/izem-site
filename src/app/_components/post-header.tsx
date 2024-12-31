@@ -1,7 +1,7 @@
 import { PostTitle } from "@/app/_components/post-title";
 import { type Author } from "@/interfaces/author";
 import CoverImage from "./cover-image";
-import DateFormatter from "./date-formatter";
+import Date from "./date";
 
 type Props = {
   title: string;
@@ -19,7 +19,8 @@ export function PostHeader({ title, coverImage, date, author }: Props) {
       </div>
 
       <div className="text-lg leading-[18px] pt-2">
-        <DateFormatter dateString={date} />
+        
+        <Date dateString={date} />
       </div>
     </>
   );
