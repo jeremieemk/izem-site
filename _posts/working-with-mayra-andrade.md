@@ -1,7 +1,7 @@
 ---
 title: "Working with Mayra Andrade"
 excerpt: "A few weeks ago, I started working on a a very special project. Cape Verdean singer Mayra Andrade got in touch to help her put together her new live show..."
-coverImage: "/assets/blog/working-with-mayra-andrade.jpeg"
+coverImage: "/assets/blog/working-with-mayra-andrade.jpg"
 date: "2021-04-06T00:00:00.000Z"
 ---
 

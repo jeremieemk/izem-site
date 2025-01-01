@@ -1,7 +1,7 @@
 ---
 title: "New track with Milton Gulli"
 excerpt: "Milton Gulli is one of my favourite singers on the Lisbon scene since way before I moved here in 2012..."
-coverImage: "/assets/blog/new-track-with-milton-gulli.jpeg"
+coverImage: "/assets/blog/new-track-with-milton-gulli.jpg"
 date: "2021-05-19T14:21:16+0000"
 ---
 

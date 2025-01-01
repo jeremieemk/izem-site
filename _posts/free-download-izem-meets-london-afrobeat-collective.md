@@ -1,7 +1,7 @@
 ---
 title: "Free Download - iZem meets London Afrobeat Collective"
 excerpt: "I met the guys of the London Afrobeat Collective back in 2010 when we (as part of Groovalizacion Radio) were commissioned by an Irish music festival..."
-coverImage: "/assets/blog/free-download-izem-meets-london-afrobeat-collective.jpeg"
+coverImage: "/assets/blog/free-download-izem-meets-london-afrobeat-collective.jpg"
 date: "2021-07-01T19:49:47+0000"
 ---
 

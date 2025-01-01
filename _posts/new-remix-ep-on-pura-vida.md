@@ -1,7 +1,7 @@
 ---
 title: "New Remix EP on Pura Vida"
 excerpt: "I always have a lot of fun remixing afrobeat tracks. I gave Fela Kuti and London Afrobeat Collective a shot a couple of years ago and received very positive feedback..."
-coverImage: "/assets/blog/new-remix-ep-on-pura-vida.jpeg"
+coverImage: "/assets/blog/new-remix-ep-on-pura-vida.jpg"
 date: "2021-05-14T13:41:19+0000"
 ---
 

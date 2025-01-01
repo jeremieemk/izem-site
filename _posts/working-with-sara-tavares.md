@@ -1,7 +1,7 @@
 ---
 title: "Working with Sara Tavares"
 excerpt: 'Sara Tavares is one of the Lisbon-based artists I had been following way before moving here. "Balancê" was one of my shower hits...'
-coverImage: "/assets/blog/working-with-sara-tavares.jpeg"
+coverImage: "/assets/blog/working-with-sara-tavares.jpg"
 date: "2021-04-27T11:45:57+0000"
 ---
 

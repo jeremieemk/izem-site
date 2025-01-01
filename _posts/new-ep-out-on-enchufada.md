@@ -1,7 +1,7 @@
 ---
 title: "New EP out on Enchufada!"
 excerpt: "Enchufada Records is the brainchild of the founders of Lisbon's mythical band Buraka Som Sistema..."
-coverImage: "/assets/blog/new-ep-out-on-enchufada.jpeg"
+coverImage: "/assets/blog/new-ep-out-on-enchufada.jpg"
 date: "2021-04-27T11:28:00+0000"
 ---
 
