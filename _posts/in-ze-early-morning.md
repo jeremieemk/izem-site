@@ -3,6 +3,11 @@ title: "My new album, 'in Ze early Morning' is out"
 excerpt: "Today is the day! My new album 'in Ze early morning' is out on Elis Records. Five years in the making, dozens of vocalists, musicians and collaborators... A long chapter of my life!"
 coverImage: "/assets/blog/in-ze-early-morning.jpg"
 date: "2023-11-24T05:35:07.322Z"
+links:
+  - title: "🔉 Spotify"
+    url: "https://open.spotify.com/album/5iz5kGjLKESgUKanW9Mhhl"
+  - title: "🔉 Bandcamp"
+    url: "https://izemsounds.bandcamp.com/album/in-ze-early-morning"
 ---
 
 Today is the day! My new album "in Ze early morning" is out on Elis Records

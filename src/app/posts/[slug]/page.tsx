@@ -1,6 +1,7 @@
 import Header from "@/app/_components/header";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
+import PostLinks from "@/app/_components/post-links";
 import { getAllPosts, getPostBySlug } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
 import { Metadata } from "next";
@@ -23,8 +24,8 @@ export default async function Post(props: Params) {
           title={post.title}
           coverImage={post.coverImage}
           date={post.date}
-          author={post.author}
         />
+        <PostLinks links={post.links}></PostLinks>
         <PostBody content={content} />
       </article>
     </main>
@@ -51,7 +52,6 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     title,
     openGraph: {
       title,
-
     },
   };
 }

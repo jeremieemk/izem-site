@@ -7,10 +7,9 @@ type Props = {
   title: string;
   coverImage: string;
   date: string;
-  author: Author;
 };
 
-export function PostHeader({ title, coverImage, date, author }: Props) {
+export function PostHeader({ title, coverImage, date }: Props) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
@@ -19,7 +18,6 @@ export function PostHeader({ title, coverImage, date, author }: Props) {
       </div>
 
       <div className="text-lg leading-[18px] pt-2">
-        
         <Date dateString={date} />
       </div>
     </>
