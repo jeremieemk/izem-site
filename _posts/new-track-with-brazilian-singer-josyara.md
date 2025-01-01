@@ -3,6 +3,12 @@ title: "New track with Brazilian singer Josyara"
 excerpt: "Working with Josyara was such a refreshing experience. She is one of the most talented singer, guitar player and composer..."
 coverImage: "/assets/blog/new-track-with-brazilian-singer-josyara.jpg"
 date: "2019-10-24T00:00:00.000Z"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/track/56YTfkXvY7hPT9zpdXCBlu?si=-CQQs5wNQRO_gKnOQhpiug"
+  - title: "🔉  bandcamp"
+    url: "https://izemsounds.bandcamp.com/track/iara-correnteza"
+
 ---
 
 Working with Josyara was such a refreshing experience… She is a very talented singer, guitar player and composer. She is based in São Paulo but she came to Lisbon last June for a few weeks. I heard her playing an intimate gig in Valsa bar and I was totally blown away… I got in touch and offered to try and do a track together. She accepted and we locked ourselves in the studio a couple of days after (on the day of my birthday). And this song is the result!⁣

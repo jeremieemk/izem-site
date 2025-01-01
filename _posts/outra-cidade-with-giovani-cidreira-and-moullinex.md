@@ -3,6 +3,12 @@ title: '"Outra Cidade" with Giovani Cidreira and Moullinex '
 excerpt: "Over the last 4 or 5 years, Lisbon became a very rich music hub. We had the chance to see many emerging Brazilian musicians transiting  through..."
 coverImage: "/assets/blog/outra-cidade-with-giovani-cidreira-and-moullinex.jpg"
 date: "2021-05-19T14:20:09+0000"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/track/0lNqNKq6I1yQbIzKZvOaNg"
+  - title: "🔉  bandcamp"
+    url: "https://giovanicidreira.bandcamp.com/album/outra-cidade-feat-moullinex-izem"
+
 ---
 
 Over the last 4 or 5 years, Lisbon became a very rich music hub. We had the chance to see many emerging Brazilian musicians transiting through the Portuguese capital. We saw many of them playing small improvised gigs in places like Valsa, Banco, Anjos70... Those artists would generally use Lisbon as a base to play gigs in other parts of Europe. This is how I met with singer-songwriter Josyara.

@@ -3,6 +3,12 @@ title: "New single featuring Dino D'Santiago"
 excerpt: "Last year I had the chance to collaborate with one of Lisboa’s most talented singer-songwriters, Dino D'Santiago..."
 coverImage: "/assets/blog/new-single-featuring-dino-d-santiago.jpg"
 date: "2021-05-14T13:50:14+0000"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/album/6ruxvIQpZSpjh56q5IA1CE"
+  - title: "🔉  bandcamp"
+    url: "https://izemsounds.bandcamp.com/album/l-ba"
+
 ---
 
 Last year I had the chance to collaborate with one of Lisboa’s most talented singer-songwriters, Dino D'Santiago. Dino is one of the first artists I heard about when moving to Lisbon back in 2012. I discovered him through a video of him and Sara Tavares singing an acoustic version ‘Nos tradiçon’.

@@ -25,7 +25,8 @@ export default async function Post(props: Params) {
           coverImage={post.coverImage}
           date={post.date}
         />
-        <PostLinks links={post.links}></PostLinks>
+        {post.links && <PostLinks links={post.links}></PostLinks>}
+
         <PostBody content={content} />
       </article>
     </main>

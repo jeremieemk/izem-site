@@ -3,6 +3,12 @@ title: 'Working on Guts'' Album "Philantropiques"'
 excerpt: 'I grew up listening to the French rap hits he produced in the ''90s with his band "Alliance Ethnik". I later fell in love with his solo albums and his "Beach Digging"'
 coverImage: "/assets/blog/working-on-guts-album-philantropiques.png"
 date: "2021-05-14T13:28:58+0000"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/track/3JrrwVNNQYk7FTVk2CQfpi?si=26dc1a5586ce4f9f"
+  - title: "🔉  bandcamp"
+    url: "https://guts-puravida.bandcamp.com/track/mucagiami-feat-zum-zum"
+
 ---
 
 I grew up listening to the French rap hits he produced in the '90s with his band "Alliance Ethnik". I later fell in love with his solo albums and his "Beach Digging" compilations without knowing the same person was behind those projects. Until one day he showed up in Lisbon and got in touch.

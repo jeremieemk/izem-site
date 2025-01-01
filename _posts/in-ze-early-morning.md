@@ -4,9 +4,9 @@ excerpt: "Today is the day! My new album 'in Ze early morning' is out on Elis Re
 coverImage: "/assets/blog/in-ze-early-morning.jpg"
 date: "2023-11-24T05:35:07.322Z"
 links:
-  - title: "🔉 Spotify"
+  - title: "🔉  spotify"
     url: "https://open.spotify.com/album/5iz5kGjLKESgUKanW9Mhhl"
-  - title: "🔉 Bandcamp"
+  - title: "🔉  bandcamp"
     url: "https://izemsounds.bandcamp.com/album/in-ze-early-morning"
 ---
 

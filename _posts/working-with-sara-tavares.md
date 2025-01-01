@@ -3,6 +3,10 @@ title: "Working with Sara Tavares"
 excerpt: 'Sara Tavares is one of the Lisbon-based artists I had been following way before moving here. "Balancê" was one of my shower hits...'
 coverImage: "/assets/blog/working-with-sara-tavares.jpg"
 date: "2021-04-27T11:45:57+0000"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/track/5YTPvmsOCK5EkNVk1QYeXQ?si=70d9a3265ca64fba"
+
 ---
 
 Sara Tavares is one of the Lisbon artists I had been following way before moving here. "Balancê" was one of my shower hits and I dreamt of collaborating with her for quite some time. Her vocal and guitar style is the perfect crossover between American soul music and Afro-lusophone grooves. So when Kalaf of Buraka Som Sistema got in touch to offer me to work on some additional production for her new single "Coisas Bunitas", I was thrilled.

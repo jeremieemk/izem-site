@@ -3,6 +3,12 @@ title: 'Collaborating with Jimena Angel on "Aire"'
 excerpt: 'My friend Bertrand, co-founder of Parisian radio "Le Mellotron" and Elis Records, spent a lot of time in Colombia before the 2020 pandemic.'
 coverImage: "/assets/blog/collaborating-with-jimena-angel-on-aire.png"
 date: "2021-05-19T13:57:55+0000"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/album/1JbNjRvlyLvDQHSUW0y8oW?si=3SDaF3s7TLya7FaiJXcWCA"
+  - title: "🔉  bandcamp"
+    url: "https://jimenaangel.bandcamp.com/album/aire"
+
 ---
 
 My friend Bertrand, co-founder of Parisian radio "Le Mellotron" and Elis Records, spent a lot of time in Colombia before the 2020 pandemic. Before his last trip to Bogotá, we did some research on the Colombian music scene and we came across a beautiful song by Jimena Angel. Bertrand decided to get in touch with her during his trip.

@@ -3,6 +3,11 @@ title: 'Listen to my debut album "Hafa"'
 excerpt: "I first released this album back in June 2015. The album was really well received by DJ's and radio stations..."
 coverImage: "/assets/blog/listen-to-my-debut-album-hafa.jpg"
 date: "2021-04-28T13:33:55+0000"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/album/6rZ1s8wfQHwrAD1Nd74vYW"
+  - title: "🔉  bandcamp"
+    url: "https://izemsounds.bandcamp.com/album/hafa-3"
 ---
 
 I first released this album back in June 2015. The album was really well received by DJ's and radio stations. It was the album of the week on WDR Funkhaus Europa (Germany) and got some airplay on Radio Nova (France) and BBC Radio 6. Both Mount Kimbie and Bonobo played the opening tune "Sadeo" on their NTS radio show. After a few months, Soundway Records got in touch to release the album. They printed it on vinyl (a few copies left here!) and re-released it in October 2016. Around the same period I put together a band to play a launch tour. The band was composed of Binisa Bonner (bass + vocals), Benoit Crauste (saxophone), Kino Sousa (ableton controls) and myself on guitar. More about the songs of the album here:

@@ -3,6 +3,12 @@ title: "Elza Soares gets the iZem remix treament"
 excerpt: "I don't recall the exact tracklist of my first ever DJ set but I do remember two of the highlights of the night..."
 coverImage: "/assets/blog/elza-soares-izem-remix.jpg"
 date: "2021-04-28T13:28:54+0000"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/track/2ZC4XnlxSqz0BSznS5o9iT?si=6813d6293d494cb4"
+  - title: "🔉  bandcamp"
+    url: "https://elzasoares.bandcamp.com/track/o-canal-izem-remix"
+
 ---
 
 I don't recall the exact tracklist of my first ever DJ set but I do remember two of the highlights of the night: Celia Cruz's "Dos Jueyes" and Elza Soares' "Mas Que Nada". I was 22 and we were at an international student residence in South Paris where my girlfriend at the time was residing. Since then, Elza Soares and this song occupy a very special place in my heart. Seeing her on stage during Recife Carnival back in 2008 only made this feeling bigger.

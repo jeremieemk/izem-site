@@ -3,6 +3,12 @@ title: "New track with Milton Gulli"
 excerpt: "Milton Gulli is one of my favourite singers on the Lisbon scene since way before I moved here in 2012..."
 coverImage: "/assets/blog/new-track-with-milton-gulli.jpg"
 date: "2021-05-19T14:21:16+0000"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/track/0iXgsUOs8QxL9F3dpPWcRR"
+  - title: "🔉  bandcamp"
+    url: "https://izemsounds.bandcamp.com/album/a-muhive"
+
 ---
 
 Milton Gulli is one of my favourite singers on the Lisbon scene since way before I moved here in 2012. The songs he released with his Afrobeat band "Cacique 97" had been on my radar for a number of years, "Chapa 97" being one of my DJ classics back then. I love everything from the texture of his voice, his songwriting skills to his 70's Jamaican and Nigerian influences.

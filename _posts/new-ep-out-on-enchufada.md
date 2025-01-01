@@ -3,6 +3,12 @@ title: "New EP out on Enchufada!"
 excerpt: "Enchufada Records is the brainchild of the founders of Lisbon's mythical band Buraka Som Sistema..."
 coverImage: "/assets/blog/new-ep-out-on-enchufada.jpg"
 date: "2021-04-27T11:28:00+0000"
+links:
+  - title: "🔉  spotify"
+    url: "https://open.spotify.com/album/5f5zzSOWlVnrGwOVmg5jaU"
+  - title: "🔉  bandcamp"
+    url: "https://enchufada.bandcamp.com/album/beni-lane-ep"
+
 ---
 
 Enchufada Records is the brainchild of the founders of Lisbon's mythical band Buraka Som Sistema. The label started during the "blog-era", the late 2000's, when music fans turned to blogs for discovering new sounds and record stores disappeared. This era gave visibility to "peripheral" music scenes, pockets of creativity located outside the traditional centres of the music industry. Amongst those influential scenes and rhythms were Rio De Janeiro's "Baile Funk", Buenos Aires' "Electronic Cumbia" and Luanda's "Kuduro".
