@@ -3,7 +3,7 @@ import fs from "fs";
 import matter from "gray-matter";
 import { join } from "path";
 
-const postsDirectory = join(process.cwd(), "_posts");
+const postsDirectory = join(process.cwd(), "_content/_posts");
 
 export function getPostSlugs() {
   return fs.readdirSync(postsDirectory);
@@ -25,4 +25,12 @@ export function getAllPosts(): Post[] {
     // sort posts by date in descending order
     .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
   return posts;
+}
+
+export function getAboutContent() {
+  const aboutPath = join(process.cwd(), "_content/about.md");
+  const fileContents = fs.readFileSync(aboutPath, "utf8");
+  const { data, content } = matter(fileContents);
+
+  return { ...data, content };
 }
