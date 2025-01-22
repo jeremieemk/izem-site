@@ -11,10 +11,10 @@ const Header = () => {
           Beat Hacking
         </Link>
         <div className="flex items-center text-lg w500:text-base w400:text-sm">
-          <a className="mr-10 w400:mr-7" href="/tags">
+          {/* <a className="w400:mr-7" href="/tags">
             Tags
-          </a>
-          <a className="mr-10 w400:mr-7" href="/about">
+          </a> */}
+          <a className="w400:mr-7" href="https://www.jeremie.world/" target="_blank">
             About
           </a>
 

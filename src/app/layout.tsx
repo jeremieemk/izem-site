@@ -1,4 +1,3 @@
-import Footer from "@/app/_components/footer";
 import { HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
@@ -60,7 +59,6 @@ export default function RootLayout({
         <div className="min-h-[calc(100dvh-70px)] py-10 pt-[120px] w500:min-h-[calc(100dvh-70px)] w400:pt-[140px]">
           <Header />
           {children}
-          <Footer />
         </div>
       </body>
     </html>
