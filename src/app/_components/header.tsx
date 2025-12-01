@@ -8,16 +8,12 @@ const Header = () => {
           className="text-3xl font-heading w500:text-2xl w400:text-xl"
           href="/"
         >
-          Beat Hacking
+          iZem
         </Link>
         <div className="flex items-center text-lg w500:text-base w400:text-sm">
           {/* <a className="w400:mr-7" href="/tags">
             Tags
           </a> */}
-          <a className="w400:mr-7" href="https://www.jeremie.world/" target="_blank">
-            About
-          </a>
-
           {/* <ThemeSwitcher client:load /> */}
         </div>
       </div>
