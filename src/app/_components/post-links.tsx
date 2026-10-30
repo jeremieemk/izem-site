@@ -8,7 +8,7 @@ interface PostLinksProps {
 
 const PostLinks: React.FC<PostLinksProps> = ({ links }) => {
   return (
-    <div className="flex flex-wrap gap-4 mt-4">
+    <div className="flex flex-wrap gap-3 mt-6">
       {links.map((link, index) => (
         <Link
           key={index}
