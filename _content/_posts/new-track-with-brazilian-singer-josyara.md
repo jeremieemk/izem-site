@@ -14,7 +14,7 @@ links:
 Working with **Josyara** was such a refreshing experience. She’s an incredibly talented singer, guitarist, and composer. Based in São Paulo, Josyara came to Lisbon last June for a few weeks. I first saw her perform an intimate gig at **Valsa bar**, and I was completely blown away by her artistry. I reached out to her afterward and proposed collaborating on a track together. She agreed, and just a couple of days later—on my birthday—we locked ourselves in the studio. This song is the result!
 
 Here’s the official video of the song:  
-[https://www.youtube.com/watch?v=j6r3fB80qZohttps://](https://www.youtube.com/watch?v=j6r3fB80qZohttps://)
+[https://www.youtube.com/watch?v=j6r3fB80qZo](https://www.youtube.com/watch?v=j6r3fB80qZo)
 
 Here’s a short video of the recording process:  
 [https://www.youtube.com/watch?v=xSYSzW4BrjI](https://www.youtube.com/watch?v=xSYSzW4BrjI)

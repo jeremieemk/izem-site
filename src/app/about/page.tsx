@@ -1,7 +1,9 @@
+import { JsonLd, artistJsonLd } from "@/app/_components/json-ld";
 import { PostBody } from "@/app/_components/post-body";
 import PostLinks from "@/app/_components/post-links";
 import { PostTitle } from "@/app/_components/post-title";
 import { getAboutContent } from "@/lib/api";
+import { SITE_URL } from "@/lib/constants";
 import markdownToHtml from "@/lib/markdownToHtml";
 import { Metadata } from "next";
 import Image from "next/image";
@@ -19,12 +21,20 @@ export default async function About() {
 
   return (
     <main>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "ProfilePage",
+          url: `${SITE_URL}/about`,
+          mainEntity: artistJsonLd,
+        }}
+      />
       <article className="mb-32">
         {about.title && <PostTitle>{about.title}</PostTitle>}
         {about.coverImage && (
           <Image
             src={about.coverImage}
-            alt="iZem"
+            alt="iZem in the studio"
             width={803}
             height={1200}
             sizes="(max-width: 700px) 100vw, 320px"
@@ -46,12 +56,19 @@ export async function generateMetadata(): Promise<Metadata> {
     return notFound();
   }
 
-  const title = `${about.title || "About"} | iZem`;
+  const title = about.title || "About";
+  const description =
+    "About iZem, a French-born beatmaker and producer who left France at 25 and made music across Spain, Brazil, Argentina, Ireland and Portugal.";
 
   return {
     title,
+    description,
+    alternates: { canonical: "/about" },
     openGraph: {
-      title,
+      type: "profile",
+      title: `${title} | iZem`,
+      description,
+      url: "/about",
     },
   };
 }

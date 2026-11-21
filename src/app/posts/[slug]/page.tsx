@@ -1,9 +1,11 @@
-import Header from "@/app/_components/header";
+import { ARTIST_ID, JsonLd } from "@/app/_components/json-ld";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
 import PostLinks from "@/app/_components/post-links";
 import { getAllPosts, getPostBySlug } from "@/lib/api";
+import { SITE_URL } from "@/lib/constants";
 import markdownToHtml from "@/lib/markdownToHtml";
+import { parseISO } from "date-fns";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 
@@ -19,6 +21,19 @@ export default async function Post(props: Params) {
 
   return (
     <main>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          headline: post.title,
+          description: post.excerpt,
+          image: `${SITE_URL}${post.coverImage}`,
+          datePublished: parseISO(post.date).toISOString(),
+          url: `${SITE_URL}/posts/${post.slug}`,
+          author: { "@id": ARTIST_ID },
+          publisher: { "@id": ARTIST_ID },
+        }}
+      />
       <article className="mb-32">
         <PostHeader
           title={post.title}
@@ -47,12 +62,19 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound();
   }
 
-  const title = `${post.title} | iZem`;
+  const url = `/posts/${post.slug}`;
 
   return {
-    title,
+    title: post.title,
+    description: post.excerpt,
+    alternates: { canonical: url },
     openGraph: {
-      title,
+      type: "article",
+      title: post.title,
+      description: post.excerpt,
+      url,
+      publishedTime: parseISO(post.date).toISOString(),
+      images: [{ url: post.coverImage, alt: post.title }],
     },
   };
 }
