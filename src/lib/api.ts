@@ -32,5 +32,10 @@ export function getAboutContent() {
   const fileContents = fs.readFileSync(aboutPath, "utf8");
   const { data, content } = matter(fileContents);
 
-  return { ...data, content };
+  return { ...data, content } as {
+    title?: string;
+    coverImage?: string;
+    links?: { title: string; url: string }[];
+    content: string;
+  };
 }

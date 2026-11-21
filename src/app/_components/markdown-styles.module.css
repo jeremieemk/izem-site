@@ -18,6 +18,10 @@
 }
 
 .markdown a {
-  @apply underline;
+  @apply rounded bg-main px-1 font-heading no-underline transition-colors;
+}
+
+.markdown a:hover {
+  @apply bg-mainAccent;
 }
 

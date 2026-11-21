@@ -10,7 +10,33 @@ const Header = () => {
         >
           iZem
         </Link>
-        <div className="flex items-center text-lg w500:text-base w400:text-sm">
+        <div className="flex items-center gap-2 text-lg w500:text-base w400:text-sm">
+          <Link className="text-base w400:text-sm hover:underline" href="/about">
+            about
+          </Link>
+          <a
+            href="https://www.instagram.com/izem__music/"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Instagram"
+            className="hover:opacity-70"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              width="20"
+              height="20"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <rect x="2" y="2" width="20" height="20" rx="5" />
+              <circle cx="12" cy="12" r="4" />
+              <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
+            </svg>
+          </a>
           {/* <a className="w400:mr-7" href="/tags">
             Tags
           </a> */}
