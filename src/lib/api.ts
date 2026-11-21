@@ -35,6 +35,7 @@ export function getAboutContent() {
   return { ...data, content } as {
     title?: string;
     coverImage?: string;
+    photoCredit?: string;
     links?: { title: string; url: string }[];
     content: string;
   };

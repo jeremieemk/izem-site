@@ -17,6 +17,7 @@ export const ARTIST_GENRES = [
 ];
 export const ARTIST_PROFILES = [
   "https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r",
+  "https://izemsounds.bandcamp.com",
   "https://soundcloud.com/izemsounds",
   "https://www.youtube.com/@izem1286",
   "https://www.instagram.com/izem__music/",

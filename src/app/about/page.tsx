@@ -32,15 +32,30 @@ export default async function About() {
       <article className="mb-32">
         {about.title && <PostTitle>{about.title}</PostTitle>}
         {about.coverImage && (
-          <Image
-            src={about.coverImage}
-            alt="iZem in the studio"
-            width={803}
-            height={1200}
-            sizes="(max-width: 700px) 100vw, 320px"
-            priority
-            className="float-right mb-4 ml-8 mt-6 w-[320px] rounded-base border-2 border-border dark:border-darkBorder w700:float-none w700:ml-0 w700:w-full"
-          />
+          <figure className="float-right mb-4 ml-8 mt-6 w-[320px] w700:float-none w700:ml-0 w700:w-full">
+            <Image
+              src={about.coverImage}
+              alt="iZem in the studio"
+              width={803}
+              height={1200}
+              sizes="(max-width: 700px) 100vw, 320px"
+              priority
+              className="w-full rounded-base border-2 border-border dark:border-darkBorder"
+            />
+            {about.photoCredit && (
+              <figcaption className="mt-1 text-right text-[10px] opacity-60">
+                photo:{" "}
+                <a
+                  href={`https://www.instagram.com/${about.photoCredit}/`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:underline"
+                >
+                  @{about.photoCredit}
+                </a>
+              </figcaption>
+            )}
+          </figure>
         )}
         {about.links && <PostLinks links={about.links}></PostLinks>}
 

@@ -1,6 +1,7 @@
 ---
 title: "About"
 coverImage: "/assets/blog/about.jpg"
+photoCredit: "sofiazordanphotography"
 ---
 
 Hey, I'm Jérémie, aka iZem, a French beatmaker and producer.
