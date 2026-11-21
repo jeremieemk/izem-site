@@ -1,6 +1,6 @@
 ---
 title: "Working with Mayra Andrade"
-excerpt: "A few weeks ago, I started working on a a very special project. Cape Verdean singer Mayra Andrade got in touch to help her put together her new live show..."
+excerpt: "A few weeks ago, I started working on a very special project. Cape Verdean singer Mayra Andrade got in touch to help her put together her new live show..."
 coverImage: "/assets/blog/working-with-mayra-andrade.jpg"
 date: "2022-06-06T00:00:00.000Z"
 ---
@@ -13,6 +13,6 @@ The task she hired me for was clear: she needed help adapting her forthcoming al
 
 I was involved in the intense three-week rehearsal period, providing feedback to the band. Rehearsals were grueling, often lasting over 10 hours, with the goal of arranging and perfecting 15 songs—10 of which Mayra had never performed live before. Technically, we achieved the following setup: drummer Tiss Rodriguez triggered sequences using two Roland SPDs and a sensory percussion kit from Sunhouse; keyboardist Nicholas Vella reproduced synth textures on a Prophet 5 and a Kronos workstation; and bassist Swaeli Mbappé used a Moog Sub Phatty for the electronic basslines. Additionally, Mayra experimented with electronic vocal textures using an effects rig that included auto-tune, pitch shifters, filters, and reverb.
 
-I attended the first few concerts of the tour, and all I can say is they are an incredible band. Mayra’s stage presence and ability to deeply connect with her audience are unparalleled. The feedback from the crowd was overwhelmingly positive as they heard some of their favorite songs (Tunuka, Lua, Ilha de Santiago) completely reimagined. This project was, without a doubt, the highlight of my musical year and one of the most exciting yet challenging endeavors I’ve ever been a part of.
+I attended the first few concerts of the tour, and all I can say is they are an incredible band. Mayra’s stage presence and ability to deeply connect with her audience are unparalleled. The feedback from the crowd was overwhelmingly positive as they heard some of their favourite songs (Tunuka, Lua, Ilha de Santiago) completely reimagined. This project was, without a doubt, the highlight of my musical year and one of the most exciting yet challenging endeavors I’ve ever been a part of.
 
-watch [Mayra's new band perform \"Afeto\"](https://www.youtube.com/watch?v=ml2aEduVnDM) - [\"Vapor di Imigrason\"](https://www.youtube.com/watch?v=cVAhHaoNvNs) - [\"Manga\"](https://www.youtube.com/watch?v=zUc0cXMp-sQ) in Paris on the 3rd date of their "Manga Tour".
+Watch [Mayra's new band perform \"Afeto\"](https://www.youtube.com/watch?v=ml2aEduVnDM) - [\"Vapor di Imigrason\"](https://www.youtube.com/watch?v=cVAhHaoNvNs) - [\"Manga\"](https://www.youtube.com/watch?v=zUc0cXMp-sQ) in Paris on the 3rd date of their "Manga Tour".

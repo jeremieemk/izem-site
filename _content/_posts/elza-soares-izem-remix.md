@@ -1,5 +1,5 @@
 ---
-title: "Elza Soares gets the iZem remix treament"
+title: "Elza Soares gets the iZem remix treatment"
 excerpt: "I don't recall the exact tracklist of my first ever DJ set but I do remember two of the highlights of the night..."
 coverImage: "/assets/blog/elza-soares-izem-remix.jpg"
 date: "2021-04-28T13:28:54+0000"

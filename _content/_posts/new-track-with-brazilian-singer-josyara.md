@@ -1,6 +1,6 @@
 ---
 title: "New track with Brazilian singer Josyara"
-excerpt: "Working with Josyara was such a refreshing experience. She is one of the most talented singer, guitar player and composer..."
+excerpt: "Working with Josyara was such a refreshing experience. She is one of the most talented singers, guitarists and composers..."
 coverImage: "/assets/blog/new-track-with-brazilian-singer-josyara.jpg"
 date: "2022-04-24T00:00:00.000Z"
 links:

@@ -15,4 +15,4 @@ My first attempt at the project was rejected, but I didn’t give up. A few mont
 
 The following five days were spent in the studio, first with Karlos and later with Sara, who provided clear directions and valuable input. Working with her was an absolute delight—she was funny, focused, and incredibly sharp. The version of Coisas Bunitas we created was included as a bonus track on her album.
 
-PS : Sara Tavares recently passed away, leaving behind an incredible legacy that continues to inspire countless artists and fans. Her talent, warmth, and unique artistry will be deeply missed.
+PS: Sara Tavares recently passed away, leaving behind an incredible legacy that continues to inspire countless artists and fans. Her talent, warmth, and unique artistry will be deeply missed.

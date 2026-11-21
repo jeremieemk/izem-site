@@ -1,6 +1,6 @@
 ---
 title: "New single featuring Dino D'Santiago"
-excerpt: "Last year I had the chance to collaborate with one of Lisboa’s most talented singer-songwriters, Dino D'Santiago..."
+excerpt: "Last year I had the chance to collaborate with one of Lisbon’s most talented singer-songwriters, Dino D'Santiago..."
 coverImage: "/assets/blog/new-single-featuring-dino-d-santiago.jpg"
 date: "2022-05-05T13:50:14+0000"
 links:
@@ -14,4 +14,4 @@ Last year, I had the privilege of collaborating with one of Lisbon’s most tale
 
 We eventually met a few years later through mutual friends and often crossed paths at the legendary **"Na Surra" Enchufada nights**. I followed his musical evolution and rise to fame as he collaborated with key figures of the _Nova Lisboa_ movement, including **Kalaf Epalanga**, **Branko**, **Paul 'Seiji'** from Bugz In The Attic, **Pedro**, and many other brilliant artists. I was even part of his live band for a while, playing shows alongside Dino, **Ellah Barbosa**, and **Ivo Costa** on drums.
 
-During that time, Dino and I worked together in my home studio in Alfama, where we recorded his vocals over an instrumental I had created. **Ellah Barbosa** joined in to add the finishing touches, completing the song. It premiered on **Gilles Peterson’s BBC radio show** and is now streaming on your favorite platform—enjoy!
+During that time, Dino and I worked together in my home studio in Alfama, where we recorded his vocals over an instrumental I had created. **Ellah Barbosa** joined in to add the finishing touches, completing the song. It premiered on **Gilles Peterson’s BBC radio show** and is now streaming on your favourite platform—enjoy!

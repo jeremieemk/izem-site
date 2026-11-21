@@ -11,7 +11,7 @@ links:
 
 ---
 
-The story began in **Chelas**, a neighborhood in Lisbon, where my friend **Léon Brichard** (Ill Considered, Wildflower, ex-Ibibio Sound Machine) had relocated. Léon had brought his entire analog studio from London to his new home in Lisbon. I visited him a few times to write music together, and during one of those sessions, Léon came up with a captivating riff on the double bass. The moment I heard it, I was hooked. I asked him to record the same phrase on other instruments, including the **Wurlitzer keyboard**.
+The story began in **Chelas**, a neighbourhood in Lisbon, where my friend **Léon Brichard** (Ill Considered, Wildflower, ex-Ibibio Sound Machine) had relocated. Léon had brought his entire analogue studio from London to his new home in Lisbon. I visited him a few times to write music together, and during one of those sessions, Léon came up with a captivating riff on the double bass. The moment I heard it, I was hooked. I asked him to record the same phrase on other instruments, including the **Wurlitzer keyboard**.
 
 That riff stuck with me, and I eventually sampled it for the live show I created to accompany the release of my *Hafa* album in 2016. We used it as the intro theme for the set, and it became a signature part of the performance.
 
@@ -19,7 +19,7 @@ Fast forward to a gig in London, where I was opening for **Afriquoi**. During th
 
 One idea stood out immediately—his vocal take on Léon’s bass riff was irresistibly catchy. After some back-and-forth between Lisbon and Sheffield to perfect the vocals, the song felt almost complete. The final touch came from **Benoit Crauste**, a Parisian saxophonist and member of my live band. Benoit knew the groove inside out and improvised over the track until we found the perfect sax phrase for the bridge.
 
-I shared the track with French producer **Guts**, who was starting a sub-label under **Heavenly Sweetness**. He fell in love with it, and I flew to Paris to finalize the mix with **Mr. Gib** at **One Two Pass It Studios**. The track was mastered that same week and released on vinyl via Guts’ imprint.
+I shared the track with French producer **Guts**, who was starting a sub-label under **Heavenly Sweetness**. He fell in love with it, and I flew to Paris to finalize the mix with **Mr. Gib** at **OneTwoPassIt Studios**. The track was mastered that same week and released on vinyl via Guts’ imprint.
 
 Just days after its release, the song was playlisted on **Radio Nova**, a French station that has been instrumental in shaping my musical influences.
 

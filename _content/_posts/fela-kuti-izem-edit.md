@@ -9,4 +9,4 @@ links:
 
 ---
 
-I was 19 when I first heard the fiery horns of Fela Kuti’s “Lady” on my friend Nicolas’s speakers in my Paris neighborhood. Mesmerized, I rushed to the now-closed Virgin Megastore on the Champs-Élysées in search of more music. I ended up with a Fela vinyl box set containing six albums, including ITT, and the guitar riff from that track has been stuck in my head ever since. This ITT remix was my contribution to celebrate Fela’s 75th birthday. Long live Fela!
+I was 19 when I first heard the fiery horns of Fela Kuti’s “Lady” on my friend Nicolas’s speakers in my Paris neighbourhood. Mesmerized, I rushed to the now-closed Virgin Megastore on the Champs-Élysées in search of more music. I ended up with a Fela vinyl box set containing six albums, including ITT, and the guitar riff from that track has been stuck in my head ever since. This ITT remix was my contribution to celebrate Fela’s 75th birthday. Long live Fela!

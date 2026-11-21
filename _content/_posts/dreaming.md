@@ -16,4 +16,4 @@ K.O.G is a Ghanaian musician based in Sheffield, UK. We first collaborated back 
 
 The first version was literally recorded in about 20 minutes. I forgot about the song for a long time until I started digging through my demos folder a few months ago.
 
-We decided to finish it properly, and K.O.G recorded the second verse in Sheffield earlier this year. The track is called Dreaming and it’s out on now.
+We decided to finish it properly, and K.O.G recorded the second verse in Sheffield earlier this year. The track is called Dreaming and it’s out now.

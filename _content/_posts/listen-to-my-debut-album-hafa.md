@@ -1,6 +1,6 @@
 ---
 title: 'Listen to my debut album "Hafa"'
-excerpt: "I first released this album back in June 2015. The album was really well received by DJ's and radio stations..."
+excerpt: "I first released this album back in June 2015. The album was really well received by DJs and radio stations..."
 coverImage: "/assets/blog/listen-to-my-debut-album-hafa.jpg"
 date: "2021-04-28T13:33:55+0000"
 links:
@@ -16,7 +16,7 @@ Around that same time, I put together a live band for a launch tour, featuring B
 
 You can learn more about the album’s songs here:
 
-**Sadeo**: This track was co-written with Fehdah, an Irish singer born in Sierra Leone. She evokes memories of her childhood in Africa, singing in a blend of Sierra Leonan Mende, English, and her own invented words.
+**Sadeo**: This track was co-written with Fehdah, an Irish singer born in Sierra Leone. She evokes memories of her childhood in Africa, singing in a blend of Sierra Leonean Mende, English, and her own invented words.
 
 **Water**: This song, co-written with Dublin-based Nigerian drummer Segun Akano, revolves around the vital importance of water to humanity. We recorded everything—including the drums—in my bedroom at the time, right in Dublin.
 
@@ -26,7 +26,7 @@ You can learn more about the album’s songs here:
 
 **Água Viva**: The story behind this track started in 2013 when Brazilian DJ and crate-digger Tahira visited me in Lisbon. He handed me a copy of 'Krishnanda' by Pedro Santos (aka Pedro Sorongo), a little-known 1960s album that includes ‘Água Viva,’ an ode to nature’s beauty and harmony. I became obsessed with the song and asked British-Brazilian singer Nina Miranda (ex–Smoke City) to record a cover. The vocals were captured in Nina’s attic in North London.
 
-**Kulala**: This track is another cover—originally performed by South African singer Dorothy Masuka and later popularized by Miriam Makeba. It’s been one of my DJ staples for years, and also a favorite of Congolese-English singer Binisa Bonner. I first heard Binisa perform it onstage in London in 2010, and we became friends soon after. We recorded our version in 2014, and she joined me on the album release tour in 2016.
+**Kulala**: This track is another cover—originally performed by South African singer Dorothy Masuka and later popularized by Miriam Makeba. It’s been one of my DJ staples for years, and also a favourite of Congolese-English singer Binisa Bonner. I first heard Binisa perform it onstage in London in 2010, and we became friends soon after. We recorded our version in 2014, and she joined me on the album release tour in 2016.
 
 **Seasons**: This track was born out of a jam session at Aminah Dastan’s place in Crumlin, Dublin. Saxophonist Paul Harris’s brilliant horn arrangement played a major part in shaping the final sound.
 

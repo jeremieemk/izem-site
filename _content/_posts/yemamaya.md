@@ -12,12 +12,12 @@ links:
 
 Last December I spent a few days in a Lisbon studio with Brazilian singer songwriter Luizga. We put together a 5-track EP called "Yemamaya".
 
-Vocals, guitar, percussions & additional keys : LUIZGA
-Beats, keys : iZem
-Trumpet : Diogo Duque
-Congas : Afrogame
-Backing vocals : Anais Thinon, Mari Segura, Beatriz Nande
+Vocals, guitar, percussions & additional keys: LUIZGA
+Beats, keys: iZem
+Trumpet: Diogo Duque
+Congas: Afrogame
+Backing vocals: Anais Thinon, Mari Segura, Beatriz Nande
 Recorded @ Le Garage (Palmela, Portugal) and Haus Studio (Lisbon, Portugal)
 Mixed by Jori Collignon @ Le Garage (Palmela, Portugal)
 Mastered by Blanka @ Kasablanka (Paris, France)
-Artwork : Yasmin Moura & @ Uauá studio
+Artwork: Yasmin Moura & @ Uauá studio
