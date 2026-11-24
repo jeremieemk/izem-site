@@ -4,7 +4,7 @@ coverImage: "/assets/blog/about.jpg"
 photoCredit: "sofiazordanphotography"
 ---
 
-Hey, I'm Jérémie, aka iZem, a French beatmaker and producer.
+Hey, I'm Jérémie Kerouanton, aka iZem, a French beatmaker and producer.
 I wanted to be a guitar player but I was too clumsy, plus I hate guitar solos.
 Instead, I discovered I was much better at cutting and pasting sounds on a computer.
 

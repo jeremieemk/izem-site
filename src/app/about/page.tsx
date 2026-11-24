@@ -3,7 +3,7 @@ import { PostBody } from "@/app/_components/post-body";
 import PostLinks from "@/app/_components/post-links";
 import { PostTitle } from "@/app/_components/post-title";
 import { getAboutContent } from "@/lib/api";
-import { SITE_URL } from "@/lib/constants";
+import { ARTIST_REAL_NAME, SITE_URL } from "@/lib/constants";
 import markdownToHtml from "@/lib/markdownToHtml";
 import { Metadata } from "next";
 import Image from "next/image";
@@ -71,17 +71,17 @@ export async function generateMetadata(): Promise<Metadata> {
     return notFound();
   }
 
-  const title = about.title || "About";
-  const description =
-    "About iZem, a French-born beatmaker and producer who left France at 25 and made music across Spain, Brazil, Argentina, Ireland and Portugal.";
+  // real name in the page title so a search for it surfaces the music side
+  const title = `About ${ARTIST_REAL_NAME} (iZem)`;
+  const description = `${ARTIST_REAL_NAME}, aka iZem, is a French-born beatmaker and producer who left France at 25 and made music across Spain, Brazil, Argentina, Ireland and Portugal.`;
 
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: { canonical: "/about" },
     openGraph: {
       type: "profile",
-      title: `${title} | iZem`,
+      title,
       description,
       url: "/about",
     },

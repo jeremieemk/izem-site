@@ -1,5 +1,6 @@
 export const SITE_URL = "https://www.izem.me";
 export const SITE_NAME = "iZem";
+export const ARTIST_REAL_NAME = "Jérémie Kerouanton";
 export const SITE_TITLE = "iZem · beathacker";
 export const SITE_DESCRIPTION =
   "iZem is a French-born producer and beatmaker blending electronic grooves, hip hop and Latin-soul songwriting with Afro-Brazilian rhythms. New releases, remixes and collaborations.";
