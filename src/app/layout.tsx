@@ -5,6 +5,7 @@ import {
   SITE_TITLE,
   SITE_URL,
 } from "@/lib/constants";
+import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
@@ -55,6 +56,7 @@ export default function RootLayout({
           <Header />
           {children}
         </div>
+        <Analytics />
       </body>
     </html>
   );
