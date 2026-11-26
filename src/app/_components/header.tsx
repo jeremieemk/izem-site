@@ -37,6 +37,30 @@ const Header = () => {
               <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
             </svg>
           </a>
+          <a
+            href="https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Spotify"
+            className="hover:opacity-70"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              width="20"
+              height="20"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <circle cx="12" cy="12" r="10" />
+              <path d="M7 9.5c3.5-1 7-.7 10 1" />
+              <path d="M7.5 12.8c2.8-.8 5.6-.5 8 .8" />
+              <path d="M8 15.8c2.2-.6 4.3-.4 6 .6" />
+            </svg>
+          </a>
           {/* <a className="w400:mr-7" href="/tags">
             Tags
           </a> */}
